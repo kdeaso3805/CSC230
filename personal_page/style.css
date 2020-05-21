@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+html {
+    background-color: rgb(50, 80, 150);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body header h1 {
+    text-align: center;
+}
