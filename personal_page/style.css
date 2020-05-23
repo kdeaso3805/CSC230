@@ -34,6 +34,7 @@ nav.header-menu {
     margin-right: auto;
     opacity: 0.55;
     border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
 } 
 
 nav.header-menu ul li {
@@ -70,6 +71,7 @@ div.week-container {
     margin-left: 6.5em;
     margin-right: 3em;
     margin-bottom: 1em;
+    box-shadow: 5px 5px 5px black;
 }
 
 div > h2 {
