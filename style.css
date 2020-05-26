@@ -1,0 +1,83 @@
+@charset "utf-8";
+
+html {
+    background-color: #6D748C;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+div a:hover {
+    color: #FF8362
+}
+
+body header h1 {
+    text-align: center;
+    font-size: 300%;
+    text-decoration: none;
+}
+
+body header a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+nav.header-menu {
+    background-color: rgb(77, 83, 102);
+    font-size: 150%;
+    width: auto;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.55;
+    border-radius: 20px;
+} 
+
+nav.header-menu ul li {
+    display: block;
+    float: left;
+    padding-right: 2em;
+    padding-bottom: 0.9em;
+}
+
+nav.header-menu a {
+    text-decoration: none;
+    color: black;
+}
+
+nav.header-menu a:hover {
+    color: #FF8362;
+}
+
+div#assignments-container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.week-container {
+    background-color: rgb(77, 83, 102);
+    opacity: 0.55;
+    width: auto;
+    min-width: 37%;
+    max-width: 300px;
+    height: 15em;
+    display: inline-table;
+    border-radius: 20px;
+    margin-top: 3em;
+    margin-left: 6.5em;
+    margin-right: 3em;
+    margin-bottom: 1em;
+}
+
+div > h2 {
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+div > li {
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
