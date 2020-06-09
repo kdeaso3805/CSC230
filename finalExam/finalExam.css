@@ -9,7 +9,7 @@ body {
     font-size: 16pt;
     width: 85%;
     margin: auto;
-    background-color: midnightblue;
+    background-color: indianred;
 }
 
 header h1 {
@@ -25,7 +25,7 @@ header h1 {
     padding-right: 0px;
     padding-bottom: 0px;
 
-    background-color: orange;
+    background-color: salmon;
 }
 
 header h3 {
@@ -37,13 +37,7 @@ header h3 {
     padding-top: 0px;
     padding-right: 0px;
 
-    background-color: orange;
-}
-
-header img {
-    width: 300px;
-    height: 300px;
-    float: left;
+    background-color: salmon;
 }
 
 h1 {
@@ -53,13 +47,13 @@ h1 {
     letter-spacing: 2px;
     margin: 0px;
     padding: 15px 0px 0px 15px;
-    color: rebeccapurple;
+    color: royalblue;
 }
 
 h3 {
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
-    color: sienna;
+    color: orange;
 }
 
 p {
@@ -80,4 +74,52 @@ table {
     border-spacing: 2px 2px 5px 5px;
     width: 90%;
     margin-left: 30px;
+}
+
+nav {
+    background-color: salmon;
+    color: midnightblue;
+    text-align: left;
+    float: left;
+    width: 25%;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    height: 995px;
+}
+
+nav li {
+    padding-left: 60px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+section {
+    background-color: gainsboro;
+    width: 75%;
+    float: right;
+}
+
+section h1 {
+    background-color: mediumorchid;
+    padding-bottom: 10px;
+}
+
+table {
+    padding-top: 10px;
+}
+
+thead th {
+    background-color: steelblue;
+    font-weight: bold;
+}
+
+tbody td {
+    text-align: left;
+}
+
+footer {
+    background-color: salmon;
+    margin-top: 995px;
+    text-align: center;
 }
