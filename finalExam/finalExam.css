@@ -1,0 +1,77 @@
+/*
+Author: Kyle Deason
+Date:   June 10, 2020
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 16pt;
+    width: 85%;
+    margin: auto;
+    background-color: midnightblue;
+}
+
+header h1 {
+    font-size: 36pt;
+    
+    margin-top: 35px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+
+    background-color: orange;
+}
+
+header h3 {
+    font-size: 24pt;
+    margin: 0px;
+
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-top: 0px;
+    padding-right: 0px;
+
+    background-color: orange;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22pt;
+    text-align: left;
+    letter-spacing: 2px;
+    margin: 0px;
+    padding: 15px 0px 0px 15px;
+    color: rebeccapurple;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: sienna;
+}
+
+p {
+    margin: 15px;
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: skyblue;
+}
+
+table {
+    border: none;
+    border-spacing: 2px 2px 5px 5px;
+    width: 90%;
+    margin-left: 30px;
+}
